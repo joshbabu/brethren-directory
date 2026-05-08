@@ -1,6 +1,17 @@
 {
   "assemblies": [
     {
+      "name": "Test Assembly",
+      "city": "Test City",
+      "country": "India",
+      "address": "",
+      "state": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "meetingTimes": ""
+    },
+    {
       "name": "christian brethren assembly",
       "address": "Sairam Colony Rd, Laxma Reddy Colony, Uppal, Hyderabad, Telangana 500039, India",
       "city": "hyderabad",
@@ -13,16 +24,6 @@
     }
   ],
   "meetings": [
-    {
-      "topic": "abc",
-      "date": "2026-05-13",
-      "time": "",
-      "venue": "xyz",
-      "city": "",
-      "speaker": "",
-      "contact": "",
-      "notes": ""
-    },
     {
       "topic": "Gospel meetings",
       "date": "2026-05-11",
