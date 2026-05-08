@@ -1,15 +1,15 @@
 {
   "assemblies": [
     {
-      "name": "christian brethren assembly",
+      "name": "Christian Brethren Assembly Church",
       "address": "Sairam Colony Rd, Laxma Reddy Colony, Uppal, Hyderabad, Telangana 500039, India",
-      "city": "hyderabad",
+      "city": "Hyderabad",
       "state": "telangana",
       "country": "India",
       "phone": "",
       "email": "",
       "website": "",
-      "meetingTimes": "Schedule\n\nSunday\nBreaking of Bread & Ministry: 9:00am\n\nTuesday\nPrayer Meeting  7:00pm\n\nWednesday\nPrayer Meeting  7:00pm\n\nThursday\nBible Study Meeting  7:00pm\n\nWednesday\nFamily Prayer Meeting  7:00pm\n\nFriday\nWomen's Ministry  12:00pm\n\nSaturday\nPrayer Meeting  7:00pm"
+      "meetingTimes": "Schedule\n\nSunday\nBreaking of Bread & Ministry: 9:00am\n\nTuesday\nPrayer Meeting  7:00pm\n\nWednesday\nPrayer Meeting  7:00pm\n\nThursday\nBible Study Meeting  7:00pm\n\n\nFriday\nWomen's Ministry  12:00pm\n\nSaturday\nPrayer Meeting  7:00pm"
     }
   ],
   "meetings": []
