@@ -1,0 +1,16 @@
+{
+  "assemblies": [
+    {
+      "name": "Test Assembly",
+      "city": "Test City",
+      "country": "India",
+      "address": "",
+      "state": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "meetingTimes": ""
+    }
+  ],
+  "meetings": []
+}
