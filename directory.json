@@ -10,6 +10,18 @@
       "email": "",
       "website": "",
       "meetingTimes": ""
+    },
+    {
+      "name": "church",
+      "address": "",
+      "city": "uppal",
+      "state": "telanagana",
+      "country": "India",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "meetingTimes": "",
+      "submittedBy": "Anonymous"
     }
   ],
   "meetings": [
