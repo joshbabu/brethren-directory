@@ -12,5 +12,16 @@
       "meetingTimes": ""
     }
   ],
-  "meetings": []
+  "meetings": [
+    {
+      "topic": "abc",
+      "date": "2026-05-13",
+      "time": "",
+      "venue": "xyz",
+      "city": "",
+      "speaker": "",
+      "contact": "",
+      "notes": ""
+    }
+  ]
 }
