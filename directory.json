@@ -12,16 +12,15 @@
       "meetingTimes": "Schedule\n\nSunday\nBreaking of Bread & Ministry: 9:00am\n\nTuesday\nPrayer Meeting  7:00pm\n\nWednesday\nPrayer Meeting  7:00pm\n\nThursday\nBible Study Meeting  7:00pm\n\nWednesday\nFamily Prayer Meeting  7:00pm\n\nFriday\nWomen's Ministry  12:00pm\n\nSaturday\nPrayer Meeting  7:00pm"
     },
     {
-      "name": "xyz",
-      "address": "",
-      "city": "test",
-      "state": "",
+      "name": "Test Assembly",
+      "city": "Test City",
       "country": "India",
+      "address": "",
+      "state": "",
       "phone": "",
       "email": "",
       "website": "",
-      "meetingTimes": "",
-      "submittedBy": "Anonymous"
+      "meetingTimes": ""
     }
   ],
   "meetings": []
