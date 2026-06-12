@@ -21,6 +21,18 @@
       "email": "",
       "website": "",
       "meetingTimes": "Sunday\t10 AM–12:30 PM\nMonday\tClosed\nTuesday\tClosed\nWednesday\tClosed\nThursday\t7–8:45 PM\nFriday\tClosed\nSaturday\t7–8:45 PM"
+    },
+    {
+      "name": "Bethel Christian Assembly",
+      "address": "139/B Eshwaripuri Colony, Sainikpuri, Secunderabad- 500062.",
+      "city": "Sainikpuri",
+      "state": "Telangana",
+      "country": "India",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "meetingTimes": "",
+      "submittedBy": "Anonymous"
     }
   ],
   "meetings": []
